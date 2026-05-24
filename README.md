@@ -106,13 +106,6 @@ If `git push` requires credentials, configure your credential manager or SSH key
 
 ---
 
-## Acknowledgements
-- Many examples in this repository were developed while following external tutorials. A key resource used while building these examples is the following YouTube tutorial (reference provided by the repository contributor):
-
-- https://www.youtube.com/watch?v=DR4QhvIlFfQ&t=13355s
-
-If you used or adapted material from any external source for new examples or changes, please follow the attribution guidance in `CONTRIBUTING.md`.
-
 If you'd like, I can also:
 - run the commit and push the updated README now
 - add a Table of Contents for quick navigation
