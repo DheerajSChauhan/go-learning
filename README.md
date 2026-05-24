@@ -103,12 +103,3 @@ If `git push` requires credentials, configure your credential manager or SSH key
 ## Notes
 - This repository is intended for learning and demonstration; it is not production-ready code.
 - Check module `go.mod` files inside module folders for specific dependency versions.
-
----
-
-If you'd like, I can also:
-- run the commit and push the updated README now
-- add a Table of Contents for quick navigation
-- create a CONTRIBUTING.md or LICENSE file
-
-Tell me which of the above you'd like me to do next.
