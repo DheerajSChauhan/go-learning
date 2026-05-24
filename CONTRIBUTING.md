@@ -22,3 +22,6 @@ Reporting issues
 - Open an issue with a reproducible example, expected behavior, and actual behavior.
 
 Thank you for improving this learning repository — contributions make it better for everyone.
+
+Attribution
+- If your contribution is based on an external tutorial or resource (blog post, video, course), include a short attribution and a link to the original resource in your PR description and the example's README or comments. This helps maintain transparency and respects original creators.
