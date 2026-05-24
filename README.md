@@ -2,6 +2,17 @@
 
 This repository is a personal collection of Go (Golang) examples and small projects used to learn and demonstrate Go language concepts, standard library usage, and small real-world patterns (HTTP, JSON, CRUD, auth).
 
+## Table of Contents
+
+- [Goals](#goals)
+- [Prerequisites](#prerequisites)
+- [Quickstart — run an example](#quickstart--run-an-example)
+- [Repository Structure (high level)](#repository-structure-high-level)
+- [Development workflow](#development-workflow)
+- [Committing and pushing changes](#committing-and-pushing-changes)
+- [Contributing](#contributing)
+- [Notes](#notes)
+
 ## Goals
 - Provide concise, runnable examples for Go language fundamentals.
 - Demonstrate module-based projects, HTTP clients/servers, JSON handling, and simple CRUD and authentication patterns.
